@@ -1,29 +1,22 @@
-# 🌟 Akanksha's GitHub Profile
 
-Hi! I'm Akanksha – a Computer Science Engineering student at ITER, SOA University.
 
-This is the space where I’ll be tracking my journey into the world of tech 🚀  
-From learning Java and DSA to exploring Web Development, GitHub, and more!
+# 👋 Hi, I'm Akanksha!
 
-### 📚 Projects & Logs
-Stay tuned for beginner projects, coding experiments, and study logs.  
-*Coming soon...*
+🎓 First-year B.Tech CSE student at ITER, SOA University  
+💻 Currently learning Java, OOPs, and Data Structures  
+🚀 Passionate about building real-world tech projects from scratch  
+📚 I believe in learning → building → sharing → repeating!
 
----
+### 🌱 Current Goals:
+- Master Java basics and Object-Oriented Programming
+- Solve beginner to intermediate DSA problems
+- Build public mini-projects and push them to GitHub
+- Grow my GitHub and LinkedIn presence consistently
 
-### 🎯 Interests:
-- Coding (learner-level but committed 💻)
-- Writing (maybe some dev-blogs later?)
-- Exploring cool tools and tech
-
----
-
-### 🌐 Connect with me:
-- GitHub: [akankshacodes-2007](https://github.com/akankshacodes-2007)
-- LinkedIn: *Coming soon...*
+### 📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/akanksha-dash-bba907377/)
+- 📧 Email: dashakanksha07@gmail.com
 
 ---
 
-> “Consistency beats talent, when talent doesn’t work hard.”  
-> — Wrote my first GitHub README! ✨
-
+💡 *“I’m not waiting to be great — I’m working toward it every day.”*
